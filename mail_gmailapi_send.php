@@ -28,7 +28,7 @@ $mail->Password = "fhnopafiiylwehko";
 
 /* setfrom and username should be always same */
 
-$mail->setFrom('noreply@gmail.com','shopies');
+$mail->setFrom('noreply@gmail.com','shopiess');
 $mail->addAddress("venkatasaikiran@shiftwave.com"); 		
 $mail->Subject = 'test';
 $mail->msgHTML('test');
